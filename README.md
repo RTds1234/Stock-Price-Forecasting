@@ -7,7 +7,9 @@ This project forecasts the **VWAP (Volume Weighted Average Price)** of Bajaj Fin
 - Facebook Prophet
 
 ## 📊 Dataset
-- Source: Uploaded manually (NSE stock data)
+- **File:** `BAJFINANCE.csv`
+- **Source:** Manually downloaded from NSE (National Stock Exchange)
+- **Download Link:** [Click here to download the dataset](https://raw.githubusercontent.com/RTds1234/Stock-Price-Forecasting/main/BAJFINANCE.csv)
 - Columns used: VWAP, High, Low, Volume, Turnover,Trades
 
 ## 🔧 Methods Used
